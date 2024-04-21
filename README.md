@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @igallagh. I'm also ian@tbps.com and igallagher@twilio.com
+- 👋 Hi, I’m @igallagh.
 - 👀 I’m interested in aviation, skiing, and adventure motorcycling
-- 💞️ I’m looking to collaborate on communication platform as a service capabilities
+- 💞️ I’m looking to collaborate on serverless code development
 - 📫 How to reach me: ian@tbps.com
 
 <!---
